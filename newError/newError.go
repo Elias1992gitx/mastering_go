@@ -58,3 +58,14 @@ if err != nil {
 }
 
 */
+
+/*
+The panic function is a built-in Go function that stops the execution of a program and
+starts panicking! If you find yourself using panic too often, you might want to reconsider
+your Go implementation.
+*/
+
+/*
+Go alsooffers the recover function, 
+which might be able to save you when you're in some bad situations.
+*/
